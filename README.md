@@ -9,7 +9,7 @@ cd /usr/share
 cd maven
 sudo tar xzvf ~/Downloads/apache-maven-3.9.9-bin.tar.gz
 sudo chmod 755 apache-maven-3.9.9
-cd /usr/share/naven/apache-maven-3.9.9
+cd /usr/share/maven/apache-maven-3.9.9
 sudo chmod 755 bin
 ```
 
