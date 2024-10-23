@@ -2,6 +2,8 @@
 
 ## Update Maven
 
+Download from here: https://maven.apache.org/download.cgi
+
 ```bash
 cd /usr/share
 cd maven
