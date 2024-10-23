@@ -14,13 +14,12 @@ sudo chmod 755 bin
 ## Export keys
 ```bash
 vi ~/.bashrc
-# (see below)
+export M2_HOME=/usr/share/maven/apache-maven-3.9.9
+export PATH=$M2_HOME/bin:$PATH
 source ~/.bashrc
 ```
 
-![Screenshot 2024-09-13 at 1 24 21 PM](https://github.com/user-attachments/assets/3075c3ea-a58c-4226-93ff-43d39136da2a)
-
-## API Keys
+## Lab Keys
 1. AuY_ywzrqdySbN-G6GxITra7CknZSWnEXFTv079ux09s
 1. O7L2zN5kSG7eJcdWpFXBEsMCKnVelJfP3i3jnbsjfNbn
 1. lPMRnMp85mL2QOCd9kev2AUpNZVrj3TTrh2FB58UZucs
