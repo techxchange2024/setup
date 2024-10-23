@@ -11,7 +11,7 @@ cd /usr/share/naven/apache-maven-3.9.9
 sudo chmod 755 bin
 ```
 
-## Export keys
+## Set environment variables
 ```bash
 vi ~/.bashrc
 export M2_HOME=/usr/share/maven/apache-maven-3.9.9
